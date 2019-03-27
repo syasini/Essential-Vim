@@ -192,7 +192,7 @@ use with motions:
 **`:reg`** : 📜see list of registers 
 
 
-# Multiple Files and Buffers 
+# Multiple Files and Buffers and Tabs
 
 ## split view
 
@@ -219,3 +219,14 @@ use with motions:
 
 - **`:b file`** : move to a specific buffer "file"
 - **`:b #`** : move to buffer number #
+
+## tabs
+
+**`:tabnew`** : 🗂open new tab
+- **`:tabnew file`** : open file in new tab
+
+**`:tabn`** : ▶️🗂next tab
+
+**`:tabp`** : 🗂◀️previous tab
+
+

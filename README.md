@@ -163,7 +163,7 @@ use with motions:
 
 ---
 
-# Jumps, Marks & Registers
+# Jumps, Marks, & Registers
 
 ## Jump History
 
@@ -199,7 +199,7 @@ use with motions:
 ---
 
 
-# Multiple Files and Buffers and Tabs
+# Multiple Files, Buffers, & Tabs
 
 ## split view
 

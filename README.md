@@ -19,6 +19,7 @@
 # Insert
 
 **`i`** : ⤵️insert before cursor
+- **`I`** : insert at the beginning of line
 - **`a`** : insert after cursor
 - **`o`** : insert new line
 - **`:r file`** : insert external file at the location of the cursor

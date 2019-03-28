@@ -160,6 +160,9 @@ use with motions:
 
 **`:%s/old/new/gc`** : 👴⤵️👦replace old pattern with new (global/confirm)
 
+
+---
+
 # Jumps, Marks & Registers
 
 ## Jump History
@@ -191,6 +194,9 @@ use with motions:
 **`"ap`** : 📋paste from register a
     
 **`:reg`** : 📜see list of registers 
+
+
+---
 
 
 # Multiple Files and Buffers and Tabs

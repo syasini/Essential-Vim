@@ -165,7 +165,7 @@ use with motions:
 
 # Jumps, Marks, & Registers
 
-## Jump History
+## jump history
 
 **`Ctrl + i`** : ⏩ move curser forward in history
 
@@ -211,7 +211,7 @@ use with motions:
 
 **`Ctrl + wc`** : 🏙close window
 
-## Buffers
+## buffers
 
 **`:e file`** : 🏙🌆 edit file in new buffer
 - **`:e!`** : reload file from disc
